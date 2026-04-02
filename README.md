@@ -1,57 +1,48 @@
-# 🍽️ Food Delivery Web App
+🍽️ Food Delivery Web App
 
-A full-stack **Food Delivery Web Application** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
-This application allows users to browse restaurants, add items to the cart, and place orders seamlessly with secure authentication and responsive UI.
-### 🚀 A Full-Stack Food Ordering Platform built with the MERN Stack  
+A full-stack Food Delivery Web Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+This platform enables users to explore restaurants, manage carts, and place orders seamlessly with secure authentication and a responsive UI.
 
-![React](https://img.shields.io/badge/Frontend-React.js-blue?logo=react)
-![Node](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Framework-Express.js-lightgrey?logo=express)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-success?logo=mongodb)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
-
-</div>
-
+🚀 **Live Demo:** (Add your deployed link here)
 
 ---
 
-## 🚀 Features
-
-- 🔐 **JWT Authentication** – Secure login for customers, delivery partners, and restaurant owners.  
-- 🍔 **Restaurant Browsing** – Explore multiple restaurants and view their menus.  
-- 🛒 **Cart Management** – Add, remove, and update items in the cart in real time.  
-- 📦 **Order Placement & Tracking** – Smooth and interactive order flow.  
-- 📱 **Responsive UI** – Optimized for all screen sizes using React.js.  
-- ⚡ **RESTful APIs** – Fast and efficient backend communication using Express.js and MongoDB.
-
----
-
-## 🧠 Tech Stack
-
-**Frontend:** React.js, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Authentication:** JSON Web Token (JWT)  
-**Tools:** VS Code, Git, GitHub, Postman  
+🚀 Features
+🔐 JWT Authentication – Secure login for customers and admins
+🍔 Restaurant Browsing – Explore menus and food items
+🛒 Cart Management – Real-time cart updates
+📦 Order Placement & Tracking – Smooth ordering experience
+📱 Responsive UI – Works across devices
+⚡ RESTful APIs – Fast backend communication
 
 ---
 
-## 🏗️ System Architecture
-
-
-- **Frontend:** Manages UI, routing, and user interaction.  
-- **Backend:** Handles API requests, authentication, and order logic.  
-- **Database:** Stores user data, menu details, and order information.
+🧠 Tech Stack
+Frontend: React.js, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT
 
 ---
 
-## 📦 Installation & Setup
+🏗️ System Architecture
 
-To run this project locally, follow these steps:
+* Frontend: Handles UI and user interaction
+* Backend: Manages APIs and authentication
+* Database: Stores users, products, and orders
 
-### 1️⃣ Clone the repository
-```bash
+---
+
+📦 Installation & Setup
+
+1️⃣ Clone the repository
 git clone https://github.com/lakshayy25/Foodyweb-mern-app.git
-cd food-delivery-app
 
+2️⃣ Navigate to project folder
+cd Foodyweb-mern-app
+
+3️⃣ Install dependencies
+npm install
+
+4️⃣ Run the project
+npm start
