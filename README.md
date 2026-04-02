@@ -52,6 +52,6 @@ To run this project locally, follow these steps:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/anushkajha567/food-delivery-app.git
+git clone https://github.com/lakshayy25/Foodyweb-mern-app.git
 cd food-delivery-app
 
